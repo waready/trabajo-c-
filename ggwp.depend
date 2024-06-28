@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1719163571 source:c:\users\descktop7\documents\ggwp\main.cpp
+	<iostream>
+	"student.h"
+	"personal.h"
+	"database.h"
+
+1719159654 source:c:\users\descktop7\documents\ggwp\src\personal.cpp
+	"personal.h"
+	<iostream>
+	<cstring>
+
+1719159374 c:\users\descktop7\documents\ggwp\include\personal.h
+	<fstream>
+	<cstring>
+
+1719160206 source:c:\users\descktop7\documents\ggwp\src\student.cpp
+	"student.h"
+	<iostream>
+
+1719160161 c:\users\descktop7\documents\ggwp\include\student.h
+	"personal.h"
+
+1719163626 source:c:\users\descktop7\documents\ggwp\src\database.cpp
+	<iostream>
+	"student.h"
+	"personal.h"
+	"database.h"
+
+1719163369 c:\users\descktop7\documents\ggwp\include\database.h
+	<fstream>
+	<cstring>
+	<iostream>
+	"student.h"
+	"personal.h"
+
